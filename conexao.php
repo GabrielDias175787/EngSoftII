@@ -4,8 +4,7 @@
    $dsn   = "mysql:host=localhost;dbname=ads";
    $user  = "root";
    $pass  = "";
-
-   //tentando conectar
+// jihousdfhjsdhfkldsjhfkljsd
     try {
         $con = new PDO($dsn, $user, $pass);
     } catch (PDOException $e) {
