@@ -5,7 +5,7 @@
    $user  = "root";
    $pass  = "";
 
-   //tentando conectar
+   //tentandssss
     try {
         $con = new PDO($dsn, $user, $pass);
     } catch (PDOException $e) {
